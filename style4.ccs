@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+.roma {
+    color: purple;
+}
+
+a{
+    font-family: serif;
+    font-size: 19px;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+.link-header{
+    font-family: system-ui;
+}
+
+li{
+    font-size: 17px;
+}
+
+p{
+    font-size: 17px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+p {
+    color: blue;
+}
+
+a{
+    color: black;
+}
+
+h1{
+    color: royalblue;
+    border-bottom: dashed 5px black;
+    padding: 10px;
+}
+
+footer{
+    border-top: dashed 5px black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.ra{
+    width: 20px;
+}
+
+li {
+    color: blue;
+}
