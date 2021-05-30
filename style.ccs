@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
 }
 
-li {
+p {
     color: blue;
 }
 
@@ -20,8 +20,4 @@ footer{
     border-top: dashed 5px black;
     padding: 20px;
     margin: 20px;
-}
-
-.ro{
-    width: 30px;
 }
